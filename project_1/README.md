@@ -22,7 +22,7 @@ In total, the following tasks were performed:
 - **Test Scripts**: 18
 - **Failed Tests**: 0
 - **Skipped Tests**: 0
--![My Image](newman/htmlReportDark-removebg-preview.png)
+![My Image](newman/htmlReportDark-removebg-preview.png)
 
  
 In this API, you can check status, API Authentication, List of books, Get a single book, Submit an order, Get all orders, Get an order,Update an order, Delete an order, check books are available or not.
