@@ -22,6 +22,7 @@ In total, the following tasks were performed:
 - **Test Scripts**: 18
 - **Failed Tests**: 0
 - **Skipped Tests**: 0
+
 ![My Image](newman/htmlReportDark-removebg-preview.png)
 
  
