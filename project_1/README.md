@@ -23,7 +23,7 @@ In total, the following tasks were performed:
 - **Failed Tests**: 0
 - **Skipped Tests**: 0
 
-In this API, you can order books with specific book_id, check books are available or not. you can also crrate , updated, and deleted book. order book by specific type like finction or non-fiction
+In this API, you can check status, API Authentication, List of books, Get a single book, Submit an order, Get all orders, Get an order,Update an order, Delete an order, check books are available or not.
 
 For testing, you can access the [Book ordering site documetation](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md).
 
