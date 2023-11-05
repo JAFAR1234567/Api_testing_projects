@@ -23,7 +23,7 @@ In total, the following tasks were performed:
 - **Failed Tests**: 0
 - **Skipped Tests**: 0
   
-  ![Html Report]([images/my-image.png](https://github.com/JAFAR1234567/Api_testing_projects/blob/main/project_1/newman/BookApi-2023-11-03-09-13-24-012-0.html))
+ ![My Image](newman/htmlReportDark.png)
 
 
 In this API, you can check status, API Authentication, List of books, Get a single book, Submit an order, Get all orders, Get an order,Update an order, Delete an order, check books are available or not.
