@@ -31,9 +31,8 @@ In this API, you can check status, API Authentication, List of books, Get a sing
 For testing, you can access the [Simple Books API](https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md).
 
 ## Requirements
-Postman
-https://www.postman.com/
-Node JS
-https://nodejs.org/en/
+- [Postman](https://www.postman.com/)
+- [Node.js](https://nodejs.org/en/)
+
 
 
